@@ -5,9 +5,9 @@ Basic how to train the models and how to save it and ploting of graphs.
   Train single & multiple LinearRegression model and predicting values finding mean squared error
   
 2)KNeighborsClassifier
-
+  
 3)LogisticRegression
 
-4) Save and use the models
+4)SaveAndUseTheModels
 
-5)ploting values 
+5)Ploting values 
